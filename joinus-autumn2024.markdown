@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Apply Here"
       url: "https://forms.gle/MWF817yHci4mxFQh6"
-excerpt: "Are you a curious researcher interested in embodied intelligence? Team ARAM may be a great place for you."
+excerpt: "Are you a curious researcher interested in embodied intelligence? MIME Lab may be a great place for you."
 ---
 
 # Autumn 2024 Recruitment

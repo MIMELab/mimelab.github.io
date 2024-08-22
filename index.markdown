@@ -1,6 +1,6 @@
 ---
 title: "Home"
-mytitle: "Team ARAM: Animation, Robotics, and Machine Learning"
+mytitle: "MIME Lab: Machine Intelligence for Motion and Embodied Applications"
 layout: splash
 # permalink: /splash-page/
 header:
@@ -33,7 +33,7 @@ header:
   }
 </style>
 
-## Welcome to Team ARAM!
+## Welcome to MIME Lab!
 
 <div class="teaser">
 <img src="/assets/imgs/kristian/image9.gif" class="teaser" />

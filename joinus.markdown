@@ -1,6 +1,6 @@
 ---
 title: "Join Us"
-mytitle: "Joining Team ARAM"
+mytitle: "Joining MIME Lab"
 layout: splash
 permalink: /joinus/
 header:
@@ -10,7 +10,7 @@ header:
   # actions:
   #   - label: "Apply Here"
   #     url: "#test-link"
-excerpt: "Are you a curious researcher interested in embodied intelligence? Team ARAM may be a great place for you."
+excerpt: "Are you a curious researcher interested in embodied intelligence? MIME Lab may be a great place for you."
 ---
 
 # Prospective Members
@@ -19,7 +19,7 @@ excerpt: "Are you a curious researcher interested in embodied intelligence? Team
 
 We are looking for strongly motivated and enthusiastic students to join our research group. We offer BSc and MSc thesis supervision as well as PhD peer-advising on projects in the scope of embodied intelligence and adjacent topics. For Fall 2024, we will offer a limited number of 5-credit seminar topics for Aalto University students.
 
-As a member of Team ARAM, you will:
+As a member of MIME Lab, you will:
 
 - Get to check in regularly with like-minded colleagues who are genuinely curious about the problem you are solving
 - Learn critical knowledge work skills via caring feedback and critique

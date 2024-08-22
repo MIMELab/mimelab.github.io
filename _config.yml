@@ -18,16 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Team ARAM
-masthead_title: ARAM
-email: teamaram@aalto.fi
+title: MIME Lab
+masthead_title: MIME Lab
+email: namhee.kim@aalto.fi
 description: >- # this means to ignore newlines until "baseurl:"
-  Team ARAM is a cross-institutional embodied intelligence research group based in
-  Finland and Germany.
+  MIME Lab: Machine Intelligence for Motion and Embodied Applications
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://teamaram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: teamaram
-github_username: teamaram
+url: "https://mimelab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mimelab
+github_username: mimelab
 
 # Build settings
 # theme: minima
