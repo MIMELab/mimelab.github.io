@@ -91,4 +91,8 @@ An excellent command of the following areas is preferred:
 - Understanding of basic concepts in deep reinforcement learning (e.g., topics appearing in [UC Berkeley CS235]([https://rail.eecs.berkeley.edu/deeprlcourse/]))
 - Experience with physics simulators: rigid-body, fluid, or otherwise (e.g., Bullet, MuJoCo, Taichi, etc.)
 
+### Apply
+
+Please use the button below to leave your contact information with us. We will host a 30-minute information session in late August or early September detailing the program information and requirements.
+
 [Apply Here](https://forms.gle/MWF817yHci4mxFQh6){: .btn .btn--info .btn--x-large}
