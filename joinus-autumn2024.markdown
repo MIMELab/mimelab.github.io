@@ -91,4 +91,4 @@ An excellent command of the following areas is preferred:
 - Understanding of basic concepts in deep reinforcement learning (e.g., topics appearing in [UC Berkeley CS235]([https://rail.eecs.berkeley.edu/deeprlcourse/]))
 - Experience with physics simulators: rigid-body, fluid, or otherwise (e.g., Bullet, MuJoCo, Taichi, etc.)
 
-[Apply Here](#link){: .btn .btn--info .btn--x-large}
+[Apply Here](https://forms.gle/MWF817yHci4mxFQh6){: .btn .btn--info .btn--x-large}
