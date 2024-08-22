@@ -12,7 +12,7 @@ excerpt: "Animation, Robotics, and Machine Learning"
 
 ## Who We Are
 
-The MIME Lab (formerly Team ARAM) is a cross-institutional research group based in Aalto University with members across Finland and Germany, focusing on animation, robotics, and embodied intelligence, led by [Nam Hee Gordon Kim](https://namheegordonkim.github.io). MIME Lab is a platform for peer-to-peer collaboration aiming for cutting edge research in embodied intelligence.
+MIME Lab (formerly Team ARAM) is a cross-institutional research group based in Aalto University with members across Finland and Germany, focusing on animation, robotics, and embodied intelligence, led by [Nam Hee Gordon Kim](https://namheegordonkim.github.io). MIME Lab is a platform for peer-to-peer collaboration aiming for cutting edge research in embodied intelligence.
 
 ## People
 
