@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/about.jpg
-excerpt: "Animation, Robotics, and Machine Learning"
+excerpt: "MIME Lab is a platform for peer-to-peer collaboration aiming for cutting edge research in embodied intelligence."
 ---
 
 ## Who We Are
