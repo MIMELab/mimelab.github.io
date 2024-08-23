@@ -25,14 +25,16 @@ We are looking for strongly motivated and enthusiastic students to join our rese
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    display:inline-grid;
-    grid-auto-flow: column;
+    /* display:inline-grid; */
+    /* grid-auto-flow: column; */
   }
   img.teaser {
     height: 200px;
+    max-width: 100%;
   }
   video.teaser {
     height: 200px;
+    max-width: 100%;
   }
 </style>
 
