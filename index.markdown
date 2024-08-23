@@ -22,14 +22,19 @@ header:
 <style>
   div.teaser {
     text-align: center;
-    display:grid;
-    grid-auto-flow: column;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* display:grid; */
+    /* grid-auto-flow: column; */
   }
   img.teaser {
     height: 200px;
+    max-width: 100%;
   }
   video.teaser {
     height: 200px;
+    max-width: 100%;
   }
 </style>
 
